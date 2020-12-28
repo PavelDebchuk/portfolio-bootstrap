@@ -117,6 +117,30 @@ h3 {
   border-radius: 5px;
   cursor: pointer;
 }
+.header .header-title .modal .modal-header .modal-title {
+  font-family: "Montserrat";
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #314a5b;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+.header .header-title .modal .name {
+  margin: 5px 5px 5px 5px;
+  padding-left: 10px;
+  border-color: #b5b9c1;
+  border-radius: 3px;
+  width: 80%;
+  font-family: "Open Sans" Regular;
+  letter-spacing: 2px;
+  color: #314a5b;
+}
+.header .header-title .modal .btn-primary {
+  background-color: #f0454c;
+  border: none;
+  width: 100px;
+  text-transform: uppercase;
+}
 
 .main .main-content {
   justify-content: space-between;
@@ -190,6 +214,6 @@ h3 {
 .footer .footer-info .footer-social a {
   margin: 0 10px 0 10px;
 }
-.footer .footer-info h2 {
+.footer .footer-info .footer-social h2 {
   font-size: 14px;
 }
