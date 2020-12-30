@@ -214,8 +214,8 @@ h3 {
 .footer .footer-info .footer-social a {
   margin: 0 10px 0 10px;
 }
-.footer .footer-info .footer-social h2 {
-  font-size: 14px;
+.footer .footer-info .name-title {
+  font-family: "Open Sans Regular";
+  color: #b5b9c1;
+  letter-spacing: 2px;
 }
-
-/*# sourceMappingURL=scss.css.map */
